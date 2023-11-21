@@ -48,7 +48,7 @@ I am gearing up for my first professional experience in programming. As I prepar
 
 ## Connect with Me 🌐
 
-Feel free to reach out, whether it's for collaboration, advice, or just a friendly chat. Connect with me on [LinkedIn](#www.linkedin.com/in/aleks-koloch-407859232)!
+Feel free to reach out, whether it's for collaboration, advice, or just a friendly chat. Connect with me on [LinkedIn](https://www.linkedin.com/in/aleks-koloch-407859232)!
 
 ---
 

@@ -10,7 +10,7 @@ Presently, I work as a photographer, endeavoring to incorporate my expertise in 
 
 ## Current Project: 2D Spaceshooter Game
 
-🚀 I'm currently working on a 2D spaceshooter game in C++. Check out the [project repository](https://github.com/alekskoloch/Orion) for more details. This project is my coding exercise, contributing to my learning journey not only in game development but also in programming as a whole.
+🚀 I'm currently working on a 2D spaceshooter game in C++. Check out the [Orion](https://github.com/alekskoloch/Orion) for more details. This project is my coding exercise, contributing to my learning journey not only in game development but also in programming as a whole.
 
 ---
 

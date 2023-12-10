@@ -31,13 +31,6 @@ I'm on a perpetual learning journey, exploring various aspects of programming an
 - Mastering efficient and clean C++ coding practices
 - Applying design patterns in practical coding scenarios
 
-### To-Do List:
-- Linux
-- Docker
-- Jenkins
-- TDD approach
-- Multithreading in C++
-
 ---
 
 ## Professional Aspirations 💼
